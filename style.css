@@ -35,6 +35,28 @@ body, html {
   mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
   -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
 }
+.slogan {
+  position: fixed;        
+  bottom: 20px;          
+  right: 20px;            
+  
+  color: white;
+  font-size: 0.9rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  text-transform: uppercase;
+
+  line-height: 1.4;
+  opacity: 0.85;
+  text-align: right;
+  
+  z-index: 10;         
+}
+
+
+.slogan p {
+  margin: 0;
+}
 
 
 .rolling-text {
