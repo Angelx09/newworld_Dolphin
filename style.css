@@ -68,7 +68,7 @@ button {
   font-size: 1rem;
   border: none;
   border-radius: 30px;
-  background: rgba(255, 255, 255, 0.9);
+  background: linear-gradient(135deg, #43fffc, #16c40a, #fe8a1e, #43fffc);
   cursor: pointer;
   transition: all 0.3s ease;
 }
